@@ -112,7 +112,7 @@ Please refer to [Install Guide](https://mmocr.readthedocs.io/en/dev-1.x/get_star
 conda create -n open-mmlab python=3.8 pytorch=1.10 cudatoolkit=11.3 torchvision -c pytorch -y
 conda activate open-mmlab
 pip3 install openmim
-git clone https://github.com/open-mmlab/mmocr.git
+git clone https://github.com/northnpk/th-mmocr.git
 cd mmocr
 mim install -e .
 ```
